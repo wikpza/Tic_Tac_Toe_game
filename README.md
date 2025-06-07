@@ -114,19 +114,26 @@ The following diagrams describe the system:
 <img src="./images/menu.png" alt="Main Menu" width="300" />
 
 ### Register and Login pages
-![Register](screenshots/register.png)
 <div style="display: flex; gap: 10px;"> 
   <img src="./images/registration.png" alt="Main Menu" width="300" />
   <img src="./images/login.png" alt="Main Menu" width="300" />
 </div>
 
-### Match Screen
-![Match](screenshots/game_vs_player.png)
+### Rang List and game history
+<div style="display: flex; gap: 10px;"> 
+  <img src="./images/raringlist.png" alt="Main Menu" width="300" />
+  <img src="./images/history.png" alt="Main Menu" width="300" />
+</div>
 
-### Match History
-![History](screenshots/history.png)
+### Match Screen
+<img src="./images/example.png" alt="Main Menu" width="600" />
+
+<img src="./images/example1.png" alt="Main Menu" width="600" />
+
+<img src="./images/example2.png" alt="Main Menu" width="600" />
+
+### Bot Game
+<img src="./images/botGame.png" alt="Main Menu" width="300" />
 
 ---
-
-## 📁 Repository Structure
 

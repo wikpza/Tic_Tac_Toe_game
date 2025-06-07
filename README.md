@@ -93,9 +93,15 @@ This separation allows better scalability and reduced load on individual service
 The following diagrams describe the system:
 
 - **Use Case Diagram** — Describes user interactions such as sign up, login, play, view history, and ranking.
-- **Class Diagram** — Contains system classes like `User`, `GameSession`, `MatchHistory`.
-- **Sequence Diagram** — Describes the interaction between the client, account service, and game server during gameplay.
+  <img src="./images/usecase.png" alt="Main Menu" height="500" />
 
+  
+- **Class Diagram** — Contains system classes like `User`, `GameSession`, `MatchHistory`.
+  <img src="./images/classes.png" alt="Main Menu" height="500" />
+
+  
+- **Sequence Diagram** — Describes the interaction between the client, account service, and game server during gameplay.
+<img src="./images/sequilize.png" alt="Main Menu" height="500" />
 📂 *Diagrams are available in the `docs/diagrams` folder.*
 
 ---
@@ -105,10 +111,14 @@ The following diagrams describe the system:
 > *(You can add your actual screenshots inside a `/screenshots` folder)*
 
 ### Main Menu
-![Main Menu](screenshots/main_menu.png)
+<img src="./images/menu.png" alt="Main Menu" width="300" />
 
-### Register Page
+### Register and Login pages
 ![Register](screenshots/register.png)
+<div style="display: flex; gap: 10px;"> 
+  <img src="./images/registration.png" alt="Main Menu" width="300" />
+  <img src="./images/login.png" alt="Main Menu" width="300" />
+</div>
 
 ### Match Screen
 ![Match](screenshots/game_vs_player.png)

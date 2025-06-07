@@ -1,6 +1,7 @@
 # 🎮 Tic Tac Toe — Cross-platform Online Game
 
-![Main Menu](./images/menu.png)
+
+<img src="./images/menu.png" alt="Main Menu" width="100" height="200" />
 
 ## 🧩 Introduction
 

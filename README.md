@@ -102,13 +102,12 @@ The following diagrams describe the system:
   
 - **Sequence Diagram** — Describes the interaction between the client, account service, and game server during gameplay.
 <img src="./images/sequilize.png" alt="Main Menu" height="500" />
-📂 *Diagrams are available in the `docs/diagrams` folder.*
+
 
 ---
 
 ## 🖼️ Screenshots
 
-> *(You can add your actual screenshots inside a `/screenshots` folder)*
 
 ### Main Menu
 <img src="./images/menu.png" alt="Main Menu" width="300" />

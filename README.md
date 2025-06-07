@@ -1,5 +1,7 @@
 # 🎮 Tic Tac Toe — Cross-platform Online Game
 
+![Main Menu](./images/menu.png)
+
 ## 🧩 Introduction
 
 **Tic Tac Toe** is a cross-platform application that brings the classic "X and O" game to life with modern online features. The architecture is modular and split into three key components:
